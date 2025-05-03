@@ -53,6 +53,8 @@ Modify credentials as per your local PostgreSQL setup if needed.
 
 The CRM system uses the following tables:
 
+![ER Diagram](er_diagram.png)
+
 ### 📌 Features
 
 #### ✅ 1. Automated Data Insertion (with Faker)
