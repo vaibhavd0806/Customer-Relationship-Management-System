@@ -125,8 +125,9 @@ You will be prompted to select and enter data manually.
 ### 📞 Contact
 
 Built by **Vaibhav Dhotre**
-📧 \[Your Email or GitHub Profile Here] (optional)
+📧 \vaibhavdhotre0806@gmail.com
+
+🙋‍♂️ More About Me
+🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/vaibhavd08/)
 
 ---
-
-Would you like this as a downloadable `.md` file as well?
