@@ -49,6 +49,9 @@ psycopg2.connect(
 Modify credentials as per your local PostgreSQL setup if needed.
 
 ---
+## Database Schema
+
+The CRM system uses the following tables:
 
 ### 📌 Features
 
